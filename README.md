@@ -9,6 +9,7 @@ Desafio técnico proposto pela [SmartFit](https://www.smartfit.com.br) com o obj
 - Resposta visual rápida com `startTransition`
 - Interface responsiva
 - Componentes reutilizáveis com React
+- Foco em performance, principalmente durante a filtragem das informações, utilizando boas práticas de desenvolvimento!
 
 ## 🧰 Tecnologias utilizadas
 
